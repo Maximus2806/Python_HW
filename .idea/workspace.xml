@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f9a0dac-4ef1-4010-b28e-714bb6e8c32a" name="Changes" comment="corrected Python_HW2.py">
+    <list default="true" id="2f9a0dac-4ef1-4010-b28e-714bb6e8c32a" name="Changes" comment="add Python_HW4.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -218,6 +218,8 @@
       <workItem from="1645288464563" duration="2312000" />
       <workItem from="1645386494080" duration="728000" />
       <workItem from="1645511470032" duration="11524000" />
+      <workItem from="1645557255042" duration="738000" />
+      <workItem from="1645720958675" duration="592000" />
     </task>
     <task id="LOCAL-00001" summary="hw2 for checking">
       <created>1644910726777</created>
@@ -247,7 +249,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645211218139</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="corrected Python_HW2.py">
+      <created>1645557450588</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645557450588</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add Python_HW4.py">
+      <created>1645557544368</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645557544368</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -271,7 +287,8 @@
     <MESSAGE value="hw2 for checking" />
     <MESSAGE value="add other files of this project" />
     <MESSAGE value="corrected Python_HW2.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrected Python_HW2.py" />
+    <MESSAGE value="add Python_HW4.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Python_HW4.py" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_hw$Python_HW3.coverage" NAME="Python_HW3 Coverage Results" MODIFIED="1644910026004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
