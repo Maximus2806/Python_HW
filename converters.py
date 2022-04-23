@@ -16,8 +16,14 @@ def bin_to_dec(str_bin):
     m_power = len(str_bin) - 1
     res_dec = 0
     for i in str_bin:
-        res_dec += (int(i) * 2) ** m_power
-        m_power -= 1
+        if int(i) == 0 and m_power == 0:
+            continue
+        else:
+            res_dec += (int(i) * 2) ** m_power
+            m_power -= 1
     return res_dec
+
+
+
 
 
