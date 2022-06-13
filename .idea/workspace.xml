@@ -219,7 +219,12 @@
       <workItem from="1645386494080" duration="728000" />
       <workItem from="1645511470032" duration="11524000" />
       <workItem from="1645557255042" duration="738000" />
-      <workItem from="1645720958675" duration="592000" />
+      <workItem from="1645720958675" duration="1142000" />
+      <workItem from="1645768769253" duration="643000" />
+      <workItem from="1645784275943" duration="1095000" />
+      <workItem from="1645871826199" duration="283000" />
+      <workItem from="1646236112040" duration="32000" />
+      <workItem from="1646236435641" duration="134000" />
     </task>
     <task id="LOCAL-00001" summary="hw2 for checking">
       <created>1644910726777</created>
@@ -277,7 +282,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

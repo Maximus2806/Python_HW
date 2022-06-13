@@ -1,9 +1,8 @@
 # Phone number validation
 # 1. Only digits are allowed
-# 2. Starts with 1,8,9 only
+# 2. Starts with 1,8,9
 # 3. May contain only 8 digits
 import re
-import time
 
 
 def check_first_dig(number):
@@ -37,7 +36,6 @@ def is_digit(number):
 def validator(number):
     if not check_length(num) or not check_first_dig(num) or not is_digit(num):
         print(result)
-        time.sleep(1)
     else:
         global progress
         progress = False
