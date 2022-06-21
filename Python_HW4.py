@@ -51,9 +51,17 @@ run = True
 #                 inner_count = inner_item
 #         print("-- inner_count = ", inner_count)
 ############################
-for item in range(21):
-    if item > 7 and item < 12:
-        print("If_item = ", item)
-    else:
-        print("Step = ", item)
-print("End_iterration = ", item)
+# for item in range(21):
+#     if item > 7 and item < 12:
+#         print("If_item = ", item)
+#     else:
+#         print("Step = ", item)
+# print("End_iterration = ", item)
+import converters
+from converters import bin_to_dec
+c = bin_to_dec('1101101111')
+a = converters.bin_to_dec('1101101')
+b = converters.dec_to_bin(156)
+print(a)
+print(b)
+print(c)
